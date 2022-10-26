@@ -1,5 +1,5 @@
 # GWtutorial-IntroToFVM
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ssagynbayeva/GWtutorial-IntroToFVM/blob/main/GWs-tutorial.ipynb)
 
 # Resources:
 I personally just use only these resources:
